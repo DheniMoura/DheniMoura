@@ -6,8 +6,8 @@
 - Fazendo diversos cursos de programação à estatistíca;
 - Encantada por análise de dados, machine learning e programação;
 - Sempre estudando, pois acredito que nunca paramos de aprender.
-- <br> 
-Clique na imagem para visitar meu site, hospedado aqui no GitHub
+<br> 
+Clique na imagem para visitar meu site, hospedado aqui no GitHub ↴
  <div align="center"> 
 <p>  <p/>
 <a href="https://dhenimoura.github.io/portfolio_01/" target="_blank"><img src="icons8-domínio-100.png" style="border-radius: 30px" target="_blank"></a>
