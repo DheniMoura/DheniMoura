@@ -1,11 +1,12 @@
 ## Olá! Seja bem-vindo ao meu perfil no GitHub!
 
 ### Deixe me falar um pouco sobre meu momento de vida: 
-- Cursando Tecnologia em Ciência de Dados;
-- Estagiaria de testes automatizados na Radix Engenharia e Software;
+- Graduanda em Tecnologia em Ciência de Dados;
+- Estagiaria de testes automatizados na *Radix Engenharia & Software*;
 - Fazendo diversos cursos de programação à estatistíca;
 - Encantada por análise de dados, machine learning e programação;
-- Sempre estudando, pois acredito que nunca paramos de aprender.  
+- Sempre estudando, pois acredito que nunca paramos de aprender.
+- <br> 
 Clique na imagem para visitar meu site, hospedado aqui no GitHub
  <div align="center"> 
 <p>  <p/>
@@ -40,4 +41,4 @@ Clique na imagem para visitar meu site, hospedado aqui no GitHub
 
 
 
-![Snake animation](https://github.com/DheniMoura/DheniMoura/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/DheniMoura/DheniMoura/blob/output/github-contribution-grid-snake.svg) -->
