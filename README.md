@@ -1,12 +1,20 @@
 ## Olá! Seja bem-vindo ao meu perfil no GitHub!
 
 ### Deixe me falar um pouco sobre meu momento de vida: 
-- Graduanda em Tecnologia em Ciência de Dados;
-- Estagiaria de testes automatizados na *Radix Engenharia & Software*;
-- Fazendo diversos cursos de programação à estatistíca;
-- Encantada por análise de dados, machine learning e programação;
-- Sempre estudando, pois acredito que nunca paramos de aprender.
+🎓 Graduanda em Tecnologia em Ciência de Dados;<br>
+💻 Estagiaria de testes automatizados na *Radix Engenharia & Software*;<br>
+📚 Sempre em busca de conhecimento através de cursos, abrangendo desde programação até estatística;<br>
+🌟 Apaixonada por análise de dados, machine learning e programação;<br>
+📖 Creio que o aprendizado é um processo contínuo e estou sempre empenhada em expandir meus horizonte.<br>
 <br> 
+
+### Tópicos de Interesse:
+- Ciência de Dados
+- Análise de Dados
+- Machine Learning
+- Testes Automatizados
+- Programação
+  <br><br>
 Clique na imagem para visitar meu site, hospedado aqui no GitHub ↴
  <div align="center"> 
 <p>  <p/>
