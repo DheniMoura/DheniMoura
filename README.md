@@ -5,7 +5,7 @@
 💻 Estagiaria de testes automatizados na *Radix Engenharia & Software*;<br>
 📚 Sempre em busca de conhecimento através de cursos, abrangendo desde programação até estatística;<br>
 🌟 Apaixonada por análise de dados, machine learning e programação;<br>
-📖 Creio que o aprendizado é um processo contínuo e estou sempre empenhada em expandir meus horizonte.<br>
+📖 Creio que o aprendizado é um processo contínuo e estou sempre empenhada em expandir meus horizontes.<br>
 <br> 
 
 ### Tópicos de Interesse:
