@@ -1,12 +1,8 @@
 ## Olá! Seja bem-vindo ao meu perfil no GitHub!
 
 ### Deixe me falar um pouco sobre meu momento de vida: 
-🎓 Tecnologa em Ciência de Dados;<br>
-💻 Analista de testes (automatizados) na *Radix Engenharia & Software*;<br>
-📚 Sempre em busca de conhecimento através de cursos, abrangendo desde programação até estatística;<br>
-🌟 Apaixonada por análise de dados, machine learning e programação;<br>
-📖 Creio que o aprendizado é um processo contínuo e estou sempre empenhada em expandir meus horizontes.<br>
-<br> 
+
+Acredito que a qualidade não é apenas uma etapa do desenvolvimento, mas a base de qualquer produto de sucesso. Sou uma profissional de QA dedicada, com forte atuação tanto na exploração manual cuidadosa quanto na automação estratégica de testes. Minha missão é garantir que o software chegue ao usuário final com o mais alto nível de excelência, atuando em validações de regressão, performance e integração contínua de APIs. Trabalho de forma colaborativa imersa em metodologias ágeis (Scrum e Kanban), unindo um ecossistema moderno de ferramentas (como Pytest, k6 e Artillery) com uma comunicação clara e empática. Tenho paixão por compartilhar conhecimento, organizar o caos e construir processos que dão segurança ao time para inovar e entregar mais rápido. <br>
 
 ### Tópicos de Interesse:
 - Ciência de Dados
@@ -15,38 +11,14 @@
 - Testes Automatizados
 - Programação
   <br><br>
-Clique na imagem para visitar meu site, hospedado aqui no GitHub ↴
- <div align="center"> 
-<p>  <p/>
-<a href="https://dhenimoura.github.io/portfolio_01/" target="_blank"><img src="icons8-domínio-100.png" style="border-radius: 30px" target="_blank"></a>
- </div>
-  <br>
-  
+
+  Se quiser, entre em contato através do LinkedIn.
   <div align="center"> 
-  <a href="https://www.instagram.com/dhenifermoura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/dhenifer-moura-58496270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
   <br>
   <br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008080&size=25&center=true&vCenter=true&width=1000&lines=;GitHub+stats+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DheniMoura&show_icons=true&count_private=true&hide_border=true&title_color=008080&icon_color=008080&text_color=c9d1d9&bg_color=0d1117" alt="Dhenifer M. github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheniMoura&layout=compact&hide_border=true&title_color=008080&text_color=008080&bg_color=0d1117" />
-</div>
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DheniMoura&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  <br>
-  <br>
-  <br>
-
-
 
 
 <!-- ![Snake animation](https://github.com/DheniMoura/DheniMoura/blob/output/github-contribution-grid-snake.svg) -->
